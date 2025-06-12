@@ -1,0 +1,31 @@
+{
+  "john_path": "D:\\Desktop\\4.0.5\\john-1.9.0-jumbo-1-win64",
+  "hashcat_path": "D:\\Desktop\\4.0.5\\hashcat-6.2.6\\hashcat.exe",
+  "opencl_path": "D:\\Desktop\\4.0.5\\hashcat-6.2.6",
+  "perl_path": "",
+  "last_dictionary_path": "",
+  "last_rule_path": "",
+  "last_attack_mode": 0,
+  "recent_files": [
+    "D:/Desktop/000.7z",
+    "D:/Desktop/温控风扇(1).zip",
+    "D:/Desktop/text/12.7z",
+    "D:/Desktop/4.0.4/text/key.7z",
+    "D:/Desktop/4.0.4/text/aes.zip",
+    "D:/Desktop/4.0.4/text/6中文.rar",
+    "D:/Desktop/4.0.4/text/12.7z",
+    "D:/Desktop/1.docx",
+    "D:/Desktop/text/zip.zip",
+    "D:/Desktop/text/jiami.ppt"
+  ],
+  "ui": {
+    "theme": "dark",
+    "font_size": 12
+  },
+  "log_dir": "logs",
+  "log_file": "zipcracker.log",
+  "log_max_bytes": 5242880,
+  "log_backup_count": 10,
+  "log_level": "INFO",
+  "log_console": true
+}

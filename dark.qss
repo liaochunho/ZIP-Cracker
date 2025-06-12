@@ -1,0 +1,36 @@
+/* 基于 qdarkstyle 的暗色主题，可后续细化 */
+QWidget {
+    background-color: #232629;
+    color: #F0F0F0;
+    font-family: '微软雅黑', 'Microsoft YaHei', Arial, sans-serif;
+    font-size: 14px;
+}
+QPushButton {
+    background-color: #444;
+    border: 1px solid #666;
+    border-radius: 4px;
+    padding: 6px 12px;
+    color: #F0F0F0;
+}
+QPushButton:hover {
+    background-color: #555;
+}
+QLineEdit, QTextEdit {
+    background-color: #2b2b2b;
+    border: 1px solid #555;
+    color: #F0F0F0;
+}
+QTreeWidget {
+    background-color: #232629;
+    border: 1px solid #444;
+    color: #F0F0F0;
+}
+QProgressBar {
+    background-color: #2b2b2b;
+    border: 1px solid #444;
+    color: #F0F0F0;
+    text-align: center;
+}
+QProgressBar::chunk {
+    background-color: #3a9ff5;
+} 
